@@ -1,0 +1,8 @@
+.dotnet-home/
+.vs/
+LibrarySystem/bin/
+LibrarySystem/obj/
+LibrarySystem/Library.accdb
+LibrarySystem/*.accdb
+.LibrarySystem-git-empty-backup/
+LibrarySystem/.gitattributes
